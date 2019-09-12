@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"nama":"Komodo dragon","category":"Blue"},
+{"id":2,"nama":"Turaco, violet-crested","category":"Fuscia"},
+{"id":3,"nama":"Sungazer, yellow-brown","category":"Indigo"},
+{"id":4,"nama":"Zebra, common","category":"Pink"},
+{"id":5,"nama":"Whale, long-finned pilot","category":"Puce"},
+{"id":6,"nama":"Anteater, giant","category":"Aquamarine"},
+{"id":7,"nama":"Bush dog","category":"Puce"},
+{"id":8,"nama":"Trumpeter, green-winged","category":"Fuscia"},
+{"id":9,"nama":"Snake, eastern indigo","category":"Goldenrod"},
+{"id":10,"nama":"Otter, giant","category":"Fuscia"},
+{"id":11,"nama":"Mongoose, small indian","category":"Green"},
+{"id":12,"nama":"American badger","category":"Crimson"},
+{"id":13,"nama":"Butterfly, canadian tiger swallowtail","category":"Yellow"},
+{"id":14,"nama":"Deer, barasingha","category":"Violet"},
+{"id":15,"nama":"Little grebe","category":"Maroon"},
+{"id":16,"nama":"Waxbill, violet-eared","category":"Khaki"},
+{"id":17,"nama":"Roseat flamingo","category":"Khaki"},
+{"id":18,"nama":"Whale, southern right","category":"Green"},
+{"id":19,"nama":"Striated heron","category":"Blue"},
+{"id":20,"nama":"Asian red fox","category":"Indigo"}
+]
+}
